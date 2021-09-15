@@ -5,7 +5,7 @@ const app=new Vue({
     data:
     {
         url:"https://api.openweathermap.org/data/2.5/",
-        key:"1dbd317b286df0d0c3dd61154a5afb6a",
+        key:"Key API=> own key",
         searchBar:"",
         city:"",
         temp:"",
